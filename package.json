@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/edgarrms/liri-node-app/issues"
   },
-  "homepage": "https://github.com/edgarrms/liri-node-app#readme"
+  "homepage": "https://github.com/edgarrms/liri-node-app#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
 }
